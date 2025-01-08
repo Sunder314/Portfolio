@@ -75,9 +75,9 @@ const nav = document.querySelector(".nav"),
 
 /** ============================================ From =========================================*/
     // Remplacez par vos IDs EmailJS
-const serviceID = "yourServiceID";
-const templateID = "yourtemplateID";
-const publicKey = "Yourpublikey";
+const serviceID = "IdPortfolioGS";
+const templateID = "tmpPortfolioGS";
+const publicKey = "OVl5ltwJf5xv7xlmd";
 
 // Fonction pour envoyer le formulaire
 document.querySelector(".contact-form").addEventListener("submit", function (e) {
